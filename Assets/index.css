@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box; 
+    margin: 0px; 
+    padding: 0px;
+}
+
+:root {
+    background: white;
+} 
+
+body {
+    margin: 0;
+}
+
+.header {
+    font-size: 20px;
+}
+
+section {}
+
+.footer {
+   position: fixed;
+   text-align: center; 
+}
+.navbar {
+    display: flex;
+
+}
+
+.navbar li {
+    display: inline;
+}
