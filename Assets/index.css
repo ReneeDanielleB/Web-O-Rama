@@ -21,8 +21,6 @@ h1 {
     margin-left: 10px;
 }
 
-section {}
-
 .navbar {
     display: flex;
     justify-content: end;
@@ -38,7 +36,15 @@ section {}
     display: inline;
 }
 
+section {
+    height: 750px;
+}
+
+.herobanner {
+    background-color: lightgray;
+}
+
 .footer {
     position: fixed;
     text-align: center; 
- }
+}
